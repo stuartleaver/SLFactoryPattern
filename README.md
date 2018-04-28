@@ -2,7 +2,7 @@
 Quick factory pattern example with unit tests in various frameworks.
 
 ## SLFactoryPattern.Code
-The basic factory pattern example code
+The basic factory pattern example code.
 
 ## Unit Tests
 ### SLFactoryPattern.Tests.MSpec
